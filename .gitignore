@@ -1,0 +1,7 @@
+
+demo2-bgp/clab-mod2-bgp/topology-data.json
+demo2-bgp/clab-mod2-bgp/authorized_keys
+demo2-bgp/clab-mod2-bgp/ansible-inventory.yml
+demo2-bgp/clab-mod2-bgp/.tls/ca/ca.pem
+demo2-bgp/clab-mod2-bgp/.tls/ca/ca.key
+demo2-bgp/.diamond-mod2.clab.yml.bak
